@@ -1,6 +1,4 @@
-# Denman2024Voyage
-
-# Evaluation for 2024/25 Denman Voyage
+# 2024/25 Denman Voyage
   
 A collaborative project to evaluate models and obs in the Denman Region in suppport of the ACEAS 2024/25 research cruise. All alre welcome to work on analysis scripts together, suggest new analysis directions, discuss figures etc.
 
